@@ -48,4 +48,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmirekhakumari&show_icons=true&locale=en" alt="rashmirekhakumari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmirekhakumari&" alt="rashmirekhakumari" /></p>
+
