@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rashmirekhakumari5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xjw-53cAz8biGciWhdhRP0tcTrFD4b5b/view](https://drive.google.com/file/d/1xjw-53cAz8biGciWhdhRP0tcTrFD4b5b/view)
+- 📄 **learning is something by doing it .** 
 
 - ⚡ Fun fact **I can convert caffeine into code.**
 
