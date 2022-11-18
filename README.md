@@ -22,7 +22,9 @@
 
 - ⚡ Fun fact **I can convert caffeine into code.**
 
-### Blogs posts
+### Badges
+[![@rashmirekhakumari's Holopin board](https://holopin.me/rashmirekhakumari)](https://holopin.io/@rashmirekhakumari)
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
